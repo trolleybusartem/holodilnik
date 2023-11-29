@@ -2,7 +2,7 @@
 
 ## Holodilnik
 ![Image alt](https://github.com/trolleybusartem/holodilnik/blob/main/image.png)
-This project is a simple Kivy application that plays a sound when a button is clicked.
+aa?
 
 ## Prerequisites
 
